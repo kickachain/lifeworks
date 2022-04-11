@@ -1,0 +1,14 @@
+astroid==2.11.2
+contextlib2==21.6.0
+dill==0.3.4
+isort==5.10.1
+lazy-object-proxy==1.7.1
+mccabe==0.7.0
+platformdirs==2.5.1
+pycodestyle==2.8.0
+pylint==2.13.5
+schema==0.7.5
+tomli==2.0.1
+typed-ast==1.5.2
+typing-extensions==4.1.1
+wrapt==1.14.0
